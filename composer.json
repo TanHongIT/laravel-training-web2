@@ -4,4 +4,10 @@
         "vendor/package2": "1.*",
         "vendor/package3": "^2.0.3"
     }
+    "name": "TanHongIT/laravel-training-module",
+    "description": "Training Project Laravel Module",
+    "require": {
+        "php": ">=7.3",
+        "another-vendor/package": "1.*"
+    }
 }
