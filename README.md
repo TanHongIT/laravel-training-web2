@@ -61,12 +61,14 @@ $ php artisan db:seed --class=UserSeeder
 ## Launch project 
 Now, Launch your system...
 
-Run the laravel project on port: http://localhost:8888
+Run the laravel project on port: http://localhost:8000
 
 ```
 $ php artisan serve
 ```
 
 Go to http://localhost:8000/login:
-- Username: user1
+- Username: username1
 - Password: 123456789 
+
+![Image](https://imgur.com/mnu2crH.png)
