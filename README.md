@@ -58,4 +58,15 @@ $ php artisan migrate
 $ php artisan db:seed --class=UserSeeder
 ```
 
+## Launch project 
 Now, Launch your system...
+
+Run the laravel project on port: http://localhost:8888
+
+```
+$ php artisan serve
+```
+
+Go to http://localhost:8000/login:
+- Username: user1
+- Password: 123456789 
