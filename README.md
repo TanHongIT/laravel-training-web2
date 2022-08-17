@@ -2,7 +2,7 @@ Create Login Basic using the jetstream library
 
 # 1. Technology
 - PHP
-- Laarvel Framework 8.x
+- Laravel Framework 8.x
 
 # 2. Configuration requirements
 - Install composer: https://getcomposer.org/
